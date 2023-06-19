@@ -1,2 +1,3 @@
-# Educational_app
-TYRO is an educational app which helps in learning programming by providing best output videos from different types of platforms. TYRO - A Beginner (Meaning in Latin).
+'''
+Hello, I'm Sriram, and I'm thrilled to share with you some of my coding projects available on GitHub repositories. With a deep passion for coding and software development, I've dedicated my time to building and contributing to various projects that showcase my skills and expertise. One of my notable projects on GitHub is an e-commerce website built using React.js, Node.js, and MongoDB. I designed and implemented the frontend interface, ensuring a seamless user experience with responsive design and intuitive navigation. The backend was developed using Node.js, providing robust functionality for product management, user authentication, and secure payment processing. This project highlights my proficiency in full-stack web development and my ability to create scalable and feature-rich applications.
+'''
